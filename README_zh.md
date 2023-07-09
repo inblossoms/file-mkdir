@@ -10,7 +10,7 @@
 ## Usage
 
 <br>
-你可以直接调用接口生成树文件，默认导出 md 类型文件：
+<span style="font-size:16px;">你可以直接调用接口生成树文件，默认导出 md 类型文件：</span>
 
 <br>
 
@@ -30,7 +30,7 @@ generateDirectory();
 ```
 
 <br>
-同样的你可以自己来配置参数，定义生成的文件格式：
+<span style="font-size:16px;">同样的你可以自己来配置参数，定义生成的文件格式：</span>
 
 <br>
 
@@ -58,7 +58,9 @@ generateDirectory(projectPath, outputPath, ignore);
 
 ## Feature
 
--
+<p align="center">
+<img height="200" src="./assets/d1.gif" alt="Dir-Tree">
+</p>
 
 ## License
 
