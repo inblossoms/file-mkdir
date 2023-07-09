@@ -1,0 +1,19 @@
+{
+  "name": "dir-tree",
+  "version": "1.0.0",
+  "description": "Used to generate a project directory tree",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "tree",
+    "md",
+    "txt",
+    "directory",
+    "tree-md",
+    "tree-txt"
+  ],
+  "author": "inblossoms",
+  "license": "MIT"
+}
