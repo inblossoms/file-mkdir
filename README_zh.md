@@ -10,10 +10,10 @@
 ## Usage
 
 <br>
-<span style="font-size: 16px">首先你需要安装它: `npm i -D file-mkdir`</span>
+### 首先你需要安装它: `npm i -D file-mkdir`
 
 <br>
-<span style="font-size:16px;">你可以直接调用接口生成树文件，默认导出 md 类型文件：</span>
+#### 你可以直接调用接口生成树文件，默认导出 md 类型文件：
 
 <br>
 
@@ -35,7 +35,7 @@ generateDirectory();
 ```
 
 <br>
-<span style="font-size:16px;">同样的你可以自己来配置参数，定义生成的文件格式：</span>
+#### 同样的你可以自己来配置参数，定义生成的文件格式：
 
 <br>
 
