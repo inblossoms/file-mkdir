@@ -6,6 +6,11 @@
   "scripts": {
     "test": ""
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inblossoms/dir-tree.git"
+  },
+  "homepage": "https://github.com/inblossoms/dir-tree",
   "keywords": [
     "tree",
     "md",
