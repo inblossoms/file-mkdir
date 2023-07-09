@@ -9,15 +9,9 @@
 
 ## Usage
 
-<br>
-
 ### 首先你需要安装它: `npm i -D file-mkdir`
 
-<br>
-
 #### 你可以直接调用接口生成树文件，默认导出 md 类型文件：
-
-<br>
 
 ```js
 # generateDirectory has default parameters
@@ -35,8 +29,6 @@ const generateDirectory = require("file-mkdir");
 generateDirectory();
 
 ```
-
-<br>
 
 #### 同样的你可以自己来配置参数，定义生成的文件格式：
 
