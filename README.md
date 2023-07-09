@@ -60,9 +60,7 @@ generateDirectory(projectPath, outputPath, ignore);
 
 ## Feature
 
-<p align="center">
 <img height="200" src="./assets/d1.gif" alt="Dir-Tree">
-</p>
 
 ## License
 
