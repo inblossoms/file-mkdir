@@ -10,6 +10,9 @@
 ## Usage
 
 <br>
+<span style="font-size: 16px">首先你需要安装它: `npm i -D file-mkdir`</span>
+
+<br>
 <span style="font-size:16px;">你可以直接调用接口生成树文件，默认导出 md 类型文件：</span>
 
 <br>
@@ -25,6 +28,8 @@
 
 # So u can just call it
 
+const generateDirectory = require("file-mkdir");
+
 generateDirectory();
 
 ```
@@ -36,7 +41,7 @@ generateDirectory();
 
 ```js
 const path = require("path");
-const generateDirectory = require("./index");
+const generateDirectory = require("file-mkdir");
 
 # 希望从那个位置开始遍历文件
 const projectPath = "E://picture";

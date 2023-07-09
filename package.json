@@ -1,6 +1,6 @@
 {
-  "name": "dir-tree",
-  "version": "1.0.0",
+  "name": "file-mkdir",
+  "version": "0.1.2",
   "description": "It is used to generate the project directory tree, and supports markdown and txt file formats.",
   "main": "index.js",
   "scripts": {
