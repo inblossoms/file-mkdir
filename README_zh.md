@@ -9,7 +9,9 @@
 
 ## Usage
 
-### 首先你需要安装它: `npm i -D file-mkdir`
+### 首先你需要安装它:
+
+`npm i -D file-mkdir`
 
 #### 你可以直接调用接口生成树文件，默认导出 md 类型文件：
 
